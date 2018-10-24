@@ -10,4 +10,4 @@ This is the area where I put my projects from my computer science class that I a
 
 ### For Fun
 The things in this area are things that I made for fun in my free time.
-* [Meme Overlord Slide](https://github.com/naqvimun000/Portfolio/blob/master/Meme_Overlor_Slide.md)
+* [Meme Overlord Slide](https://github.com/naqvimun000/Portfolio/blob/master/Meme_Overlord_Slide.md)
